@@ -1,4 +1,4 @@
-![Ma bannière](https://raw.githubusercontent.com/kydoCode/kydoCode/kydo_github_banner.jpeg)
+![Kydo Banner](https://github.com/kydoCode/kydoCode/blob/main/kydo_github_banner.jpeg)
 # Kydo Code
 
 ## À propos de moi
