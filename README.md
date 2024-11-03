@@ -21,11 +21,11 @@ Salut ! Je suis Kydo, un développeur passionné par le code et les nouvelles te
 
 ## Statistiques GitHub
 
-![Statistiques GitHub de Kydo](https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=radical)
+![Statistiques GitHub de Kydo](https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=transparent)
 
 ## Langages les plus utilisés
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&layout=compact&theme=transparent)
 
 ## Me contacter
 
@@ -39,31 +39,32 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou simpleme
 
 ⭐️ N'oubliez pas de mettre une étoile aux projets qui vous intéressent !
 
-![Mes stats GitHub](https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&hide_progress=true)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode)](https://github.com/anuraghazra/github-readme-stats)
-
---- 
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kydoCode" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kydoCode&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydoCode&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydoCode&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=portfolio_lv" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=portfolio_lv&theme=transparent" />
 </a>
 <a href="https://github.com/kydoCode/agilflow-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-front" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-front&theme=transparent" />
+</a>
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=another-repo&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=yet-another-repo&theme=transparent" />
 </a>
 
