@@ -44,3 +44,26 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou simpleme
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kydoCode&hide_progress=true)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kydoCode" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydoCode&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=portfolio_lv" />
+</a>
+<a href="https://github.com/kydoCode/agilflow-front">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-front" />
+</a>
+
