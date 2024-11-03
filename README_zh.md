@@ -10,13 +10,13 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<h2>About Me</h2>
+<h2>关于我</h2>
 
-<p>Hi! I'm Kydo, a developer passionate about coding and new technologies. I'm constantly learning and exploring new areas in the world of development and software testing.</p>
+<p>你好！我是Kydo，一名对编程和新技术充满热情的开发者。我不断学习和探索开发和软件测试领域的新领域。</p>
 
-<h2>My Skills</h2>
+<h2>我的技能</h2>
 
-<h3>Programming Languages</h3>
+<h3>编程语言</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </p>
 
-<h3>Front-end</h3>
+<h3>前端</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
@@ -35,47 +35,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-<h3>Back-end</h3>
+<h3>后端</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p>
 
-<h3>Databases</h3>
+<h3>数据库</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-<h3>Tools</h3>
+<h3>工具</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
 </p>
 
-<h3>Testing</h3>
+<h3>测试</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg" alt="jest" width="40" height="40"/>
 </p>
 
-<h2>Current Projects</h2>
+<h2>当前项目</h2>
 
 <ul>
-  <li>🚀 Developing a full-stack web application using React (front) and Node.js and Express (back): Agilflow, final project of DWWM 2024
+  <li>🚀 使用React（前端）和Node.js和Express（后端）开发全栈Web应用程序：Agilflow，DWWM 2024的最终项目
     <ul>
-      <li><a href="https://github.com/kydoCode/agilflow-front">Frontend</a></li>
-      <li><a href="https://github.com/kydoCode/agilflow-back">Backend</a></li>
+      <li><a href="https://github.com/kydoCode/agilflow-front">前端</a></li>
+      <li><a href="https://github.com/kydoCode/agilflow-back">后端</a></li>
     </ul>
   </li>
-  <li>📚 Deep learning of natural referencing (SEO) and low code / no code (Wordpress, WooCommerce)</li>
-  <li>🌐 Creating utilities in Python to automate repetitive tasks (secure data deletion, CSV to Markdown conversion, scraping, etc.)</li>
+  <li>📚 深入学习自然引用（SEO）和低代码/无代码（Wordpress，WooCommerce）</li>
+  <li>🌐 创建Python实用程序以自动化重复任务（安全数据删除，CSV到Markdown转换，抓取等）</li>
 </ul>
 
-<h2>GitHub Statistics</h2>
+<h2>GitHub统计</h2>
 
 <div style="display: grid; grid-template-rows: repeat(2, 1fr); gap: 10px;">
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=light" alt="Kydo's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=light" alt="Kydo的GitHub统计" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kydoCode&theme=light" alt="Kydo GitHub streak" />
   </div>
   <div style="display: flex; justify-content: center;">
@@ -83,21 +83,21 @@
   </div>
 </div>
 
-<h2>Most Used Languages</h2>
+<h2>最常用的语言</h2>
 
 <p align="center">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kydoCode&layout=compact&langs_count=8&card_width=320&theme=light" />
 </p>
 
-<h2>GitHub Activity</h2>
+<h2>GitHub活动</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&custom_title=Kydo%20Code%20GitHub%20Activity%20Graph&bg_color=ffffff&color=000000&line=4CAF50&point=1976D2&area_color=90CAF9&title_color=000000&area=true" alt="Kydo Code GitHub Activity Graph" />
 </p>
 
-<h2>Featured Projects</h2>
+<h2>精选项目</h2>
 
-<h3>Integrations</h3>
+<h3>集成</h3>
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <a href="https://github.com/kydoCode/hagile_clone">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=hagile_clone&theme=light" />
@@ -123,20 +123,20 @@
   </a>
 </div>
 
-<h2>Contact Me</h2>
+<h2>联系我</h2>
 
-<p>Feel free to contact me to discuss exciting projects or just to chat about development!</p>
+<p>欢迎随时联系我讨论令人兴奋的项目或只是聊聊开发！</p>
 
 <ul>
-  <li>Website: <a href="https://kydositeplaceholder.dev">https://kydositeplaceholder.dev</a></li>
+  <li>网站: <a href="https://kydositeplaceholder.dev">https://kydositeplaceholder.dev</a></li>
 </ul>
 
 <hr>
 
-<p>⭐️ Don't forget to star the projects you find interesting!</p>
+<p>⭐️ 别忘了给你觉得有趣的项目加星标！</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode&theme=light" alt="KydoCode's WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode&theme=light" alt="KydoCode的WakaTime统计" />
 </p>
 
 <p align="center">
