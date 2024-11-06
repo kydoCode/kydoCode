@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
+  <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
 
 <h1 align="center">Kydo Code</h1>
