@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
+  <img src="img/kydo_github_banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
 
 <h1 align="center">Kydo Code</h1>
@@ -27,8 +27,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiftui/swiftui-original.svg" alt="swiftui" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uikit/uikit-original.svg" alt="uikit" width="40" height="40"/>
+  <img src="img/swiftui-logo.svg" alt="swiftui" width="40" height="40"/>
+  <img src="img/uikit-logo.svg" alt="uikit" width="40" height="40"/>
 </p>
 
 <h3>前端</h3>
@@ -56,6 +56,7 @@
 <h3>工具</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
 <h3>无代码 / 低代码</h3>
