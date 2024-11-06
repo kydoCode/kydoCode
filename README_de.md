@@ -62,7 +62,7 @@
 <h3>No-code / low-code</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/joomla/joomla-original.svg" alt="joomla" width="40" height="40"/>
+  <img src="https://i.ibb.co/cLFSqJS/joomla-icon.png" alt="joomla" width="40" height="40"/>
 </p>
 
 <h3>Tests</h3>
