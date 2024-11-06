@@ -1,5 +1,7 @@
-[English](README.md) | [German](README_de.md) | [French](README_fr.md) | [Chinese](README_zh.md)
 
+<p align="center">
+  <a href="README.md">English</a> | <a href="README_de.md">German</a> | <a href="README_fr.md">French</a> | <a href="README_zh.md">Chinese</a>
+</p>
 <h1 align="center">
   <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
