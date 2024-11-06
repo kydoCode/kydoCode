@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
+  <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
 
 <h1 align="center">Kydo Code</h1>
@@ -144,7 +144,7 @@
 
 <hr>
 
-<p>⭐️ N'oubliez pas de mettre en étoile les projets que vous trouvez intéressants!</p>
+<p>⭐️ N'oubliez pas à mettre en étoile les projets que vous trouvez intéressants!</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode&theme=light" alt="Statistiques WakaTime de KydoCode" />
