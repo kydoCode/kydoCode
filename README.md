@@ -1,3 +1,5 @@
+[English](README.md) | [German](README_de.md) | [French](README_fr.md) | [Chinese](README_zh.md)
+
 <h1 align="center">
   <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
