@@ -2,7 +2,7 @@
   <a href="README.md">English</a> | <a href="README_de.md">Deutsch</a> | <a href="README_fr.md">Français</a> | <a href="README_zh.md">中文</a>
 </p>
 <h1 align="center">
-  <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
+  <img src="https://i.ibb.co/8jS0PnZ/kydo-github-banner.jpg" alt="Kydo Banner" width="100%" style="max-width: 800px; border-radius: 8px;" />
 </h1>
 
 <h1 align="center">Kydo Code</h1>
