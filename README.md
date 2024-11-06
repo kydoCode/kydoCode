@@ -9,8 +9,8 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/website?style=for-the-badge&up_message=online&url=https%3A%2F%2Fvotre-site.com&color=4CAF50" alt="Website" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> -->
 </p>
 
 <h2>About Me</h2>
