@@ -144,7 +144,7 @@
 
 <hr>
 
-<p>⭐️ N'oubliez pas de mettre en étoile les projets que vous trouvez intéressants!</p>
+<p>⭐️ N'oubliez pas à mettre en étoile les projets que vous trouvez intéressants!</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kydoCode&theme=light" alt="Statistiques WakaTime de KydoCode" />
