@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
   <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="swiftui" width="40" height="40"/>
-  <img src="https://i.ibb.co/Z6PrfrD/uikit-logo.png" alt="uikit" width="40" height="40"/>
+  <img src="https://i.ibb.co/bHBvV1C/uikit-alt.png" alt="uikit" width="40" height="40"/>
 </p>
 
 <h3>Front-end</h3>
@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-<h3>Outils</h3>
+<h3>Version</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -62,6 +62,7 @@
 <h3>No-code / low-code</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/joomla/joomla-original.svg" alt="joomla" width="40" height="40"/>
 </p>
 
 <h3>Tests</h3>
