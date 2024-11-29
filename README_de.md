@@ -140,7 +140,7 @@
 <p>Kontaktieren Sie mich gerne, um spannende Projekte zu besprechen oder einfach nur über Entwicklung zu plaudern!</p>
 
 <ul>
-  <li>Website: <a href="https://portfolio-lv-one.vercel.app/">Portfolio</a></li>
+  <li>Website: <a href="https://portfolio-lv-one.vercel.app/" target="_blank">Portfolio</a></li>
 </ul>
 
 <hr>
