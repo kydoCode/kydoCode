@@ -140,7 +140,7 @@
 <p>N'hésitez pas à me contacter pour discuter de projets passionnants ou simplement pour discuter de développement!</p>
 
 <ul>
-  <li>Site web: <a href="https://kydositeplaceholder.dev">https://kydositeplaceholder.dev</a></li>
+  <li>Site web: <a href="https://portfolio-lv-one.vercel.app/">Portfolio</a></li>
 </ul>
 
 <hr>
