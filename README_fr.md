@@ -95,36 +95,24 @@ Je suis **Kydo**, développeur et **UI Designer** passionné par le code, l'**in
 ---
 
 ## Projets mis en avant
-<!-- <p align="center">
+  <p align="center">
   <a href="https://github.com/kydoCode/agilflow-react-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-react-2026&theme=react&show_owner=true" />
+    <svg width="600" height="18" viewBox="0 0 600 18" fill="none" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto;">
+      <rect width="600" height="18" rx="8" fill="#2D333B"/>
+      <circle cx="12" cy="9" r="3" fill="#FF5F56"/>
+      <circle cx="24" cy="9" r="3" fill="#FFBD2E"/>
+      <circle cx="36" cy="9" r="3" fill="#27C93F"/>
+    </svg><img src="img/agilflow.png" width="600" style="display: block; margin: 0 auto; border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" alt="Aperçu Agilflow">
   </a>
-  <a href="https://github.com/kydoCode/portfolio-front-2026">
-    <img src="https://github.com/kydoCode/portfolio-front-2026">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=portfolio-front-2026&theme=react&show_owner=true" />
-  </a>
-</p> -->
+</p>
 <p align="center">
-  <a href="https://github.com/kydoCode/agilflow-react-2026" style="text-decoration: none; display: inline-block; margin: 10px;">
-    <svg width="400" height="18" viewBox="0 0 400 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect width="400" height="18" rx="8" fill="#2D333B"/>
+  <a href="https://github.com/kydoCode/portfolio-front-2026">
+    <svg width="600" height="18" viewBox="0 0 600 18" fill="none" xmlns="http://www.w3.org/2000/svg" style="display: block; margin: 0 auto;">
+      <rect width="600" height="18" rx="8" fill="#2D333B"/>
       <circle cx="12" cy="9" r="3" fill="#FF5F56"/>
       <circle cx="24" cy="9" r="3" fill="#FFBD2E"/>
       <circle cx="36" cy="9" r="3" fill="#27C93F"/>
-    </svg>
-    <br>
-    <img src="img/agilflow.png" width="400" alt="Agilflow Repo" style="border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" />
-  </a>
-
-  <a href="https://github.com/kydoCode/portfolio-front-2026" style="text-decoration: none; display: inline-block; margin: 10px;">
-    <svg width="400" height="18" viewBox="0 0 400 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect width="400" height="18" rx="8" fill="#2D333B"/>
-      <circle cx="12" cy="9" r="3" fill="#FF5F56"/>
-      <circle cx="24" cy="9" r="3" fill="#FFBD2E"/>
-      <circle cx="36" cy="9" r="3" fill="#27C93F"/>
-    </svg>
-    <br>
-    <img src="img/portfolio_01.png" alt="Portfolio Repo" style="border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" />
+    </svg><img src="img/portfolio_01.png" width="600" style="display: block; margin: 0 auto; border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" alt="Aperçu Agilflow">
   </a>
 </p>
 
