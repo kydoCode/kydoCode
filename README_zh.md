@@ -37,41 +37,41 @@
 
 <br>
 
-### 编程语言与框架
+### 编程语言、框架与类库
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="swiftui" width="40" height="40" title="SwiftUI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" title="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" title="Swift" width="40" height="40"/>
+  <img src="https://i.ibb.co/YdY67cs/swiftui-96x96-2x.png" alt="swiftui" title="SwiftUI" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" title="Vite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" alt="symfony" title="Symfony" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" title="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" title="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
 </p>
 
 <br>
 
-### 前端工具与 CMS
+### 内容管理系统 (CMS)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://i.ibb.co/cLFSqJS/joomla-icon.png" alt="joomla" width="40" height="40" title="Joomla"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" alt="wordpress" title="WordPress" width="40" height="40"/>
+  <img src="https://i.ibb.co/cLFSqJS/joomla-icon.png" alt="joomla" title="Joomla" width="40" height="40"/>
 </p>
 
 <br>
 
-### 数据库, QA 与工具
+### 数据库、质量保证 (QA) 与 版本控制工具
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" title="Testing"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" title="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" title="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" title="Jest (Testing)" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" title="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" width="40" height="40"/>
 </p>
 
 ---
@@ -86,20 +86,44 @@
 
 ## 项目展厅
 <p align="center">
-  <a href="https://github.com/kydoCode/Home-Key-v2"><b>Home Key v2</b></a> • 
-  <a href="https://github.com/kydoCode/hagile_clone"><b>Hagile Clone</b></a> • 
-  <a href="https://github.com/kydoCode/portfolio-front-2026"><b>Portfolio 2026</b></a>
+  <a href="https://github.com/kydoCode/agilflow-react-2026"><b>AgilFlow 2026</b></a> •
+  <a href="https://github.com/kydoCode/portfolio-front-2026"><b>Portfolio 2026</b></a> •
+  <a href="https://github.com/kydoCode/Home-Key-v2"><b>Home Key</b></a> • 
+  <a href="https://github.com/kydoCode/hagile_clone"><b>Hagile</b></a>
 </p>
 
 ---
 
 ## 精选项目
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kydoCode/agilflow-react-2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-react-2026&theme=react&show_owner=true" />
   </a>
   <a href="https://github.com/kydoCode/portfolio-front-2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=portfolio-front-2026&theme=react&show_owner=true" />
+  </a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/kydoCode/agilflow-react-2026" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <svg width="400" height="18" viewBox="0 0 400 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="400" height="18" rx="8" fill="#2D333B"/>
+      <circle cx="12" cy="9" r="3" fill="#FF5F56"/>
+      <circle cx="24" cy="9" r="3" fill="#FFBD2E"/>
+      <circle cx="36" cy="9" r="3" fill="#27C93F"/>
+    </svg>
+    <br>
+    <img src="img/agilflow.png" width="400" alt="Agilflow Repo" style="border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" />
+  </a>
+
+  <a href="https://github.com/kydoCode/portfolio-front-2026" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <svg width="400" height="18" viewBox="0 0 400 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="400" height="18" rx="8" fill="#2D333B"/>
+      <circle cx="12" cy="9" r="3" fill="#FF5F56"/>
+      <circle cx="24" cy="9" r="3" fill="#FFBD2E"/>
+      <circle cx="36" cy="9" r="3" fill="#27C93F"/>
+    </svg>
+    <br>
+    <img src="img/portfolio_01.png" alt="Portfolio Repo" style="border: 1px solid #2D333B; border-top: none; border-radius: 0 0 8px 8px;" />
   </a>
 </p>
 
@@ -110,9 +134,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&theme=react&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=react&rank_icon=github&display_format=svg" alt="Activity" />
-</p>
+</p> -->
 
 <p align="center"><i>别忘了为你感兴趣的项目点星！</i></p>
 
