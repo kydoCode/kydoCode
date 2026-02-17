@@ -130,5 +130,5 @@
 > **Autorität:** Alle Commits sind **GPG-signiert**, um Code-Integrität und Authentizität zu gewährleisten.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kydoCode/kydoCode/main/footer.svg" width="100%" />
+  <img src="img/footer.svg" width="100%" />
 </p>

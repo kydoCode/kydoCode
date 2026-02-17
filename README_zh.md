@@ -130,5 +130,5 @@
 > **权威：** 所有提交均经过 **GPG 签名**，以确保代码完整性和真实性。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kydoCode/kydoCode/main/footer.svg" width="100%" />
+  <img src="img/footer.svg" width="100%" />
 </p>
