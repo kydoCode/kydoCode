@@ -15,8 +15,8 @@
 </p>
 
 ## 👤 À propos
-<p>Salut !</p> 
-<p>Je suis **Kydo**, développeur et **UI Designer** passionné par le code, l'**ingénierie QA** et la création numérique. Spécialisé dans la conception d'applications sécurisées et performantes, avec un focus majeur sur l'expérience utilisateur et l'intégrité logicielle.</p>
+Salut !
+Je suis **Kydo**, développeur et **UI Designer** passionné par le code, l'**ingénierie QA** et la création numérique. Spécialisé dans la conception d'applications sécurisées et performantes, avec un focus majeur sur l'expérience utilisateur et l'intégrité logicielle.
 
 ---
 

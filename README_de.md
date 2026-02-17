@@ -15,8 +15,8 @@
 </p>
 
 ## 👤 Über mich
-<p>Hallo!</p> 
-<p>Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **QA-Engineering** und digitale Kreation. Spezialisiert auf den Bau sicherer, leistungsstarker Anwendungen mit Fokus auf User Experience und Software-Integrität.</p>
+Hallo! 
+Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **QA-Engineering** und digitale Kreation. Spezialisiert auf den Bau sicherer, leistungsstarker Anwendungen mit Fokus auf User Experience und Software-Integrität.
 
 ---
 

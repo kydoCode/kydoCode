@@ -15,8 +15,8 @@
 </p>
 
 ## 👤 About Me
-<p>Hi!</p> 
-<p>I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engineering** and digital creation. Specialized in building secure, high-performance applications with a focus on user experience and software integrity.</p>
+Hi!
+I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engineering** and digital creation. Specialized in building secure, high-performance applications with a focus on user experience and software integrity.
 
 ---
 
