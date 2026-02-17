@@ -14,15 +14,15 @@
   </a>
 </p>
 
-## 👤 About Me
+## About Me
 Hi!
 I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engineering** and digital creation. Specialized in building secure, high-performance applications with a focus on user experience and software integrity.
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 
-### 🎨 Creative Stack & UI Design (CDUI)
+### Creative Stack & UI Design (CDUI)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" title="Figma"/>
   <img src="https://i.ibb.co/bHBvV1C/uikit-alt.png" alt="uikit" width="40" height="40" title="UIKit"/>
@@ -37,7 +37,7 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 <br>
 
-### 💻 Programming & Frameworks
+### Programming & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -54,7 +54,7 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 <br>
 
-### 🌐 Front-end Utilities & CMS
+### Front-end Utilities & CMS
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -64,7 +64,7 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 <br>
 
-### 🗄️ Databases, QA & Tools
+### Databases, QA & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -76,15 +76,15 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 ---
 
-## 🚀 Current Focus
-* 🚀 **Agilflow 2026** : Developing a high-end Full-stack application.
+## Current Focus
+* **Agilflow 2026** : Developing a high-end Full-stack application.
   * [Frontend (React)](https://github.com/kydoCode/agilflow-react-2026) | [Backend (Node)](https://github.com/kydoCode/agilflow-api-2026)
-* 📚 **LMS & Automation** : Developing Python utilities and LMS modules on low-code platforms.
-* 🔍 **SEO Strategy** : Mastering search engine optimization and performance.
+* **LMS & Automation** : Developing Python utilities and LMS modules on low-code platforms.
+* **SEO Strategy** : Mastering search engine optimization and performance.
 
 ---
 
-## 🏛️ Study Projects Gallery
+## Study Projects Gallery
 <p align="center">
   <a href="https://github.com/kydoCode/Home-Key-v2"><b>Home Key v2</b></a> • 
   <a href="https://github.com/kydoCode/hagile_clone"><b>Hagile Clone</b></a> • 
@@ -93,7 +93,7 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 <p align="center">
   <a href="https://github.com/kydoCode/agilflow-react-2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-react-2026&theme=react&show_owner=true" />
@@ -105,7 +105,7 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
 
 ---
 
-## 📈 Activity & Impact
+## Activity & Impact
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&theme=react&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
@@ -114,18 +114,18 @@ I'm **Kydo**, a developer & **UI Designer** passionate about coding, **QA Engine
   <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=react&rank_icon=github&display_format=svg" alt="Activity" />
 </p>
 
-<p align="center">⭐️ <i>Don't forget to star interesting projects!</i></p>
+<p align="center"><i>Don't forget to star interesting projects!</i></p>
 
 ---
 
-## 📧 Contact & Links
+## Contact & Links
 <p align="center">
   <a href="https://www.sylvainclement.dev/" target="_blank"><b>Website / Portfolio</b></a>
 </p>
 
 ---
 
-## 🛡️ Governance & Security
+## Governance & Security
 > **Standard 3-2-1:** Professional backup strategy applied (Local, Cold, Cloud).  
 > **Authority:** All commits are **GPG-signed** to ensure code integrity and authenticity.
 

@@ -14,15 +14,15 @@
   </a>
 </p>
 
-## 👤 Über mich
+## Über mich
 Hallo! 
 Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **QA-Engineering** und digitale Kreation. Spezialisiert auf den Bau sicherer, leistungsstarker Anwendungen mit Fokus auf User Experience und Software-Integrität.
 
 ---
 
-## 🛠️ Meine Skills
+## Meine Skills
 
-### 🎨 Creative Stack & UI Design (CDUI)
+### Creative Stack & UI Design (CDUI)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" title="Figma"/>
   <img src="https://i.ibb.co/bHBvV1C/uikit-alt.png" alt="uikit" width="40" height="40" title="UIKit"/>
@@ -37,7 +37,7 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 <br>
 
-### 💻 Programmierung & Frameworks
+### Programmierung & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -54,7 +54,7 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 <br>
 
-### 🌐 Frontend Utilities & CMS
+### Frontend Utilities & CMS
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -64,7 +64,7 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 <br>
 
-### 🗄️ Datenbanken, QA & Tools
+### Datenbanken, QA & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -76,15 +76,15 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 ---
 
-## 🚀 Aktuelle Schwerpunkte
-* 🚀 **Agilflow 2026** : Entwicklung einer High-End Full-Stack-Anwendung.
+## Aktuelle Schwerpunkte
+* **Agilflow 2026** : Entwicklung einer High-End Full-Stack-Anwendung.
   * [Frontend (React)](https://github.com/kydoCode/agilflow-react-2026) | [Backend (Node)](https://github.com/kydoCode/agilflow-api-2026)
-* 📚 **LMS & Automatisierung** : Entwicklung von Python-Utilities und LMS-Modulen auf Low-Code-Plattformen.
-* 🔍 **SEO-Strategie** : Vertiefung in Suchmaschinenoptimierung und Performance.
+* **LMS & Automatisierung** : Entwicklung von Python-Utilities und LMS-Modulen auf Low-Code-Plattformen.
+* **SEO-Strategie** : Vertiefung in Suchmaschinenoptimierung und Performance.
 
 ---
 
-## 🏛️ Galerie der Studienprojekte
+## Galerie der Studienprojekte
 <p align="center">
   <a href="https://github.com/kydoCode/Home-Key-v2"><b>Home Key v2</b></a> • 
   <a href="https://github.com/kydoCode/hagile_clone"><b>Hagile Clone</b></a> • 
@@ -93,7 +93,7 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 <p align="center">
   <a href="https://github.com/kydoCode/agilflow-react-2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-react-2026&theme=react&show_owner=true" />
@@ -105,7 +105,7 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
 
 ---
 
-## 📈 Aktivität & Impact
+## Aktivität & Impact
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&theme=react&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
@@ -114,18 +114,18 @@ Ich bin **Kydo**, Entwickler & **UI-Designer** mit Leidenschaft für Coding, **Q
   <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=react&rank_icon=github&display_format=svg" alt="Activity" />
 </p>
 
-<p align="center">⭐️ <i>Vergessen Sie nicht, interessante Projekte zu markieren!</i></p>
+<p align="center"><i>Vergessen Sie nicht, interessante Projekte zu markieren!</i></p>
 
 ---
 
-## 📧 Kontakt & Links
+## Kontakt & Links
 <p align="center">
   <a href="https://www.sylvainclement.dev/" target="_blank"><b>Webseite / Portfolio</b></a>
 </p>
 
 ---
 
-## 🛡️ Governance & Sicherheit
+## Governance & Sicherheit
 > **Standard 3-2-1:** Professionelle Backup-Strategie (Lokal, Cold, Cloud).  
 > **Autorität:** Alle Commits sind **GPG-signiert**, um Code-Integrität und Authentizität zu gewährleisten.
 

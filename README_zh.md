@@ -14,15 +14,15 @@
   </a>
 </p>
 
-## 👤 关于我
+## 关于我
 你好！
 我是 **Kydo**，一名对编程、**QA 工程**和数字创作充满热情的开发人员兼 **UI 设计师**。专注于构建安全、高性能的应用，注重用户体验和软件完整性。
 
 ---
 
-## 🛠️ 我的技能
+## 我的技能
 
-### 🎨 创意技术栈与 UI 设计 (CDUI)
+### 创意技术栈与 UI 设计 (CDUI)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40" title="Figma"/>
   <img src="https://i.ibb.co/bHBvV1C/uikit-alt.png" alt="uikit" width="40" height="40" title="UIKit"/>
@@ -37,7 +37,7 @@
 
 <br>
 
-### 💻 编程语言与框架
+### 编程语言与框架
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -54,7 +54,7 @@
 
 <br>
 
-### 🌐 前端工具与 CMS
+### 前端工具与 CMS
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
@@ -64,7 +64,7 @@
 
 <br>
 
-### 🗄️ 数据库, QA 与工具
+### 数据库, QA 与工具
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -76,15 +76,15 @@
 
 ---
 
-## 🚀 当前重点
-* 🚀 **Agilflow 2026** : 开发高端全栈应用。
+## 当前重点
+* **Agilflow 2026** : 开发高端全栈应用。
   * [前端 (React)](https://github.com/kydoCode/agilflow-react-2026) | [后端 (Node)](https://github.com/kydoCode/agilflow-api-2026)
-* 📚 **LMS 与自动化** : 在低代码平台上开发 Python 工具和 LMS 模块。
-* 🔍 **SEO 策略** : 深入研究搜索引擎优化和性能。
+* **LMS 与自动化** : 在低代码平台上开发 Python 工具和 LMS 模块。
+* **SEO 策略** : 深入研究搜索引擎优化和性能。
 
 ---
 
-## 🏛️ 项目展厅
+## 项目展厅
 <p align="center">
   <a href="https://github.com/kydoCode/Home-Key-v2"><b>Home Key v2</b></a> • 
   <a href="https://github.com/kydoCode/hagile_clone"><b>Hagile Clone</b></a> • 
@@ -93,7 +93,7 @@
 
 ---
 
-## 📌 精选项目
+## 精选项目
 <p align="center">
   <a href="https://github.com/kydoCode/agilflow-react-2026">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kydoCode&repo=agilflow-react-2026&theme=react&show_owner=true" />
@@ -105,7 +105,7 @@
 
 ---
 
-## 📈 活动与影响力
+## 活动与影响力
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydoCode&theme=react&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
@@ -114,18 +114,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kydoCode&show_icons=true&theme=react&rank_icon=github&display_format=svg" alt="Activity" />
 </p>
 
-<p align="center">⭐️ <i>别忘了为你感兴趣的项目点星！</i></p>
+<p align="center"><i>别忘了为你感兴趣的项目点星！</i></p>
 
 ---
 
-## 📧 联系方式
+## 联系方式
 <p align="center">
   <a href="https://www.sylvainclement.dev/" target="_blank"><b>个人网站 / 作品集</b></a>
 </p>
 
 ---
 
-## 🛡️ 治理与安全
+## 治理与安全
 > **3-2-1 标准：** 应用专业备份策略（本地、离线、云端）。  
 > **权威：** 所有提交均经过 **GPG 签名**，以确保代码完整性和真实性。
 
